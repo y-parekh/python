@@ -38,13 +38,3 @@ for name in names:
 	time.sleep(2)
 
 print("Success")
-
-
-# Making bash command
-
-# nano corona
-# #!/bin/bash 
-# python <PATH>/count.py
-
-# chmod +x corona
-# sudo cp corona /usr/bin/
