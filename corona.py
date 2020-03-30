@@ -24,3 +24,15 @@ for i in l:
 	row = data.parent.parent
 	col = row.contents
 	show(col)
+	
+
+
+
+# Making bash command
+
+# nano corona
+# #!/bin/bash 
+# python <PATH>/count.py
+
+# chmod +x corona
+# sudo cp corona /usr/bin/
